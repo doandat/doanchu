@@ -1,0 +1,506 @@
+{
+    "code": 200,
+    "message": "",
+    "result": [
+        {
+            "result": "HẬU CUNG",
+            "image": "hau-cung.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĐÀN GẢY TAI TRÂU",
+            "image": "dan-gay-tai-trau.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "KIẾN TRÚC SƯ",
+            "image": "kien-truc-su.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĐÁNH TRỐNG BỎ DÙI",
+            "image": "danh-trong-bo-dui.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "SIÊU NHÂN",
+            "image": "sieu-nhan.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "DƯƠNG LỊCH",
+            "image": "duong-lich.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "TÌNH BÁO",
+            "image": "tinh-bao.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "THỦ TIÊU",
+            "image": "thu-tieu.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "VẼ RẮN THÊM CHÂN",
+            "image": "ve-ran-them-chan.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CỬA KHẨU",
+            "image": "cua-khau.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CA CỔ",
+            "image": "ca-co.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "BỊT MẮT BẮT DÊ",
+            "image": "bit-mat-bat-de.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ANH EM CỌC CHÈO",
+            "image": "anh-em-coc-cheo.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĐIỆN ẢNH",
+            "image": "dien-anh.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "KHÔI NGÔ",
+            "image": "khoi-ngo.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "THỦY CUNG",
+            "image": "thuy-cung.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "TINH TƯỜNG",
+            "image": "tinh-tuong.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "HẬU ĐẬU",
+            "image": "hau-dau.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "SINH LÃO BỆNH TỬ",
+            "image": "sinh-lao-benh-tu.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "TRƯỜNG BÁN CÔNG",
+            "image": "truong-ban-cong.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ẤM CÚNG",
+            "image": "am-cung.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "QUẢ ĐỊA CẦU",
+            "image": "qua-dia-cau.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CỌP CHẾT ĐỂ DA",
+            "image": "cop-chet-de-da.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "TỬ TẾ",
+            "image": "tu-te.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "NGÃ BA ĐƯỜNG",
+            "image": "nga-ba-duong.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĐÀN BẦU",
+            "image": "dan-bau.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "XÌ DẦU",
+            "image": "xi-dau.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CỬA SỔ TÂM HỒN",
+            "image": "cua-so-tam-hon.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CÁ NẰM TRÊN THỚT",
+            "image": "ca-nam-tren-thot.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "QUA CẦU RÚT VÁN",
+            "image": "qua-cau-rut-van.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĂN ẢNH",
+            "image": "an-anh.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĂN HỎI",
+            "image": "an-hoi.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ÁO GIÓ",
+            "image": "ao-gio.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "BĂNG THÔNG",
+            "image": "bang-thong.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "BÁNH BÒ",
+            "image": "banh-bo.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CÁ THÁNG TƯ",
+            "image": "ca-thang-tu.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CAO TAY",
+            "image": "cao-tay.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CÁO TRẠNG",
+            "image": "cao-trang.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CẦU NGUYỆN",
+            "image": "cau-nguyen.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĐỊA CẦU",
+            "image": "dia-cau.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CHIM CÁNH CỤT",
+            "image": "chim-canh-cut.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CHUỘT RÚT",
+            "image": "chuot-rut.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CỬA BIỂN",
+            "image": "cua-bien.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CỦA THIÊN TRẢ ĐỊA",
+            "image": "cua-thien-tra-dia.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CƯỜI RA NƯỚC MẮT",
+            "image": "cuoi-ra-nuoc-mat.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĐẦU ĐỌC",
+            "image": "dau-doc.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĐẤU GIÁ",
+            "image": "dau-gia.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĐÈ ĐẦU CƯỠI CỔ",
+            "image": "de-dau-cuoi-co.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "DIÊM TIÊU",
+            "image": "diem-tieu.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĐỘNG NÃO",
+            "image": "dong-nao.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "HẠ MÀN",
+            "image": "ha-man.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "KẸO KÉO",
+            "image": "keo-keo.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "LẠC ĐỀ",
+            "image": "lac-de.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "MĂNG CỤT",
+            "image": "mang-cut.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "NHIỀU CHUYỆN",
+            "image": "nhieu-chuyen.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "RỒNG ĐẾN NHÀ TÔM",
+            "image": "rong-den-nha-tom.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "SÁO SỔ LỒNG",
+            "image": "sao-so-long.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "THẤT HỌC",
+            "image": "that-hoc.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "TIỂU NHÂN",
+            "image": "tieu-nhan.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "VẼ HƯƠU VẼ VƯỢN",
+            "image": "ve-huou-ve-vuon.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "VŨ SƯ",
+            "image": "vu-su.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "XEM MẶT",
+            "image": "xem-mat.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "TỨC TỐI",
+            "image": "tuc-toi.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "VÁC MẶT",
+            "image": "vac-mat.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĐA TÀI",
+            "image": "da-tai.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "NƯỚC SỐI LỬA BỎNG",
+            "image": "nuoc-soi-lua-bong.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "KHOAN KHOÁI",
+            "image": "khoan-khoai.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "MŨI DỌC DỪA",
+            "image": "mui-doc-dua.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "VẮT CHANH BỎ VỎ",
+            "image": "vat-chanh-bo-vo.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "GIẤY Ô LY",
+            "image": "giay-o-ly.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "TIẾN ĐỘ",
+            "image": "tien-do.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "BÀNG QUAN",
+            "image": "bang-quan.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "BẤT CÔNG",
+            "image": "bat-cong.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "TƯƠNG KIẾN",
+            "image": "tuong-kien.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "KÌM KẸP",
+            "image": "kim-kep.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "TIỀN KỲ",
+            "image": "tien-ky.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "MÁY BAY TIÊM KÍCH",
+            "image": "may-bay-tiem-kich.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "Á KHẨU",
+            "image": "a-khau.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "TIÊU HÓA",
+            "image": "tieu-hoa.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "NGÃ GIÁ",
+            "image": "nga-gia.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "TIẾNG ANH",
+            "image": "tieng-anh.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "SỢI CHỈ ĐỎ",
+            "image": "soi-chi-do.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĐẮT ĐỎ",
+            "image": "dat-do.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "NỔI TRỐNG",
+            "image": "noi-trong.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "CHÓNG MẶT",
+            "image": "chong-mat.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "YẾU ĐIỂM",
+            "image": "yeu-diem.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "KHÓA CHÂN CHỐNG",
+            "image": "khoa-chan-chong.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "MỒ HÔI HỘT",
+            "image": "mo-hoi-hot.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "MÚI GIỜ",
+            "image": "mui-gio.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "THIẾU NHI",
+            "image": "thieu-nhi.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "TIỀN LỜI",
+            "image": "tien-loi.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "XUẤT HÀNH",
+            "image": "xuat-hanh.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "GIAO THIỆP",
+            "image": "giao-thiep.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "KIẾN BÒ MIỆNG CHÉN",
+            "image": "kien-bo-mieng-chen.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "THẢ HỔ VỀ RỪNG",
+            "image": "tha-ho-ve-rung.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "HOA TAY",
+            "image": "hoa-tay.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "ĐU QUAY",
+            "image": "du-quay.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "HOA ĐÁ",
+            "image": "hoa-da.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "TẨY NÃO",
+            "image": "tay-nao.jpg",
+            "suggest": ""
+        },
+        {
+            "result": "HỘI CHỮ THẬP ĐỎ",
+            "image": "hoi-chu-thap-do.jpg",
+            "suggest": ""
+        }
+    ]
+}
